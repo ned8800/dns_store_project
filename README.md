@@ -1,6 +1,4 @@
 # dns_store_project
-dns/bmstu - backend 
-
-dns/dns-frontend - desctop frontend 
-
+dns/bmstu - backend <br />
+dns/dns-frontend - desctop frontend <br />
 dns/dns-frontend - mobile frontend 
